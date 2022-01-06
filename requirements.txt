@@ -1,0 +1,6 @@
+discord
+PyNaCl
+requests
+datetime
+tzlocal
+youtube-dl
